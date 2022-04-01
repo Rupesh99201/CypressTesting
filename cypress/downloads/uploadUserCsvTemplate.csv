@@ -1,0 +1,2 @@
+FirstName (Mandatory),LastName (Mandatory),Email (Mandatory),Telephone (Optional),UniqueDeviceSerialNumberForTechnician (Optional),IsExpert (Mandatory),Comment
+,,,,,,Mention true/false in IsExpert field

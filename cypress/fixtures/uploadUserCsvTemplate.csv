@@ -1,0 +1,2 @@
+FirstName (Mandatory),LastName (Mandatory),Email (Mandatory),Telephone (Optional),UniqueDeviceSerialNumberForTechnician (Optional),IsExpert (Mandatory),Comment
+Taylor,Hawkins,Rupesh9.92015@gmail.com,1234567890,,TRUE,Mention true/false in IsExpert field

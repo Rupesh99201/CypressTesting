@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://dev.telepresenzdemo.com",
+    "experimentalStudio": true,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 60000,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "downloadsFolder":"cypress/downloads",
+    "videosFolder":"cypress/videos",
+    "waitForAnimations":true,
+    "watchForFileChanges":true,
+    "ignoreTestFiles":"*.commonUtils.js"   
+}
+
